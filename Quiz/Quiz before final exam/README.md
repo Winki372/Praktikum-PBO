@@ -26,8 +26,8 @@ Sebuah perpustakaan ingin membuat program sederhana untuk menghitunf biaya pemin
       a. Buat satu objek Book
       b. Gunakan nested class untuk menampilkan data buku
       c. Tampilkan:
-            - Biaya peminjaman buku
-            - Dendda keterlambatan jika buku terlambat dikembalikan beberapa hari
+         - Biaya peminjaman buku
+         - Denda keterlambatan jika buku terlambat dikembalikan beberapa hari
 
 
 > [!IMPORTANT]
