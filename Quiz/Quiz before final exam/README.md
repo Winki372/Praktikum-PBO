@@ -22,12 +22,12 @@ Sebuah perpustakaan ingin membuat program sederhana untuk menghitunf biaya pemin
       - Menampilkan judul buku dan biaya peminjaman
 
 3. Method Main
-   Pada method main, lakukan langka berikut:
+   Pada method main, lakukan langkah berikut:
       a. Buat satu objek Book
       b. Gunakan nested class untuk menampilkan data buku
-      c. Tampilkan:
-         + Biaya peminjaman buku
-         + Denda keterlambatan jika buku terlambat dikembalikan beberapa hari
+      c. Tampilkan:\
+         + Biaya peminjaman buku\
+         + Denda keterlambatan jika buku terlambat dikembalikan beberapa hari\
 
 
 > [!IMPORTANT]
