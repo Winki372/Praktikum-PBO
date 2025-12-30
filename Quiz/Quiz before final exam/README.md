@@ -30,7 +30,7 @@ Sebuah perpustakaan ingin membuat program sederhana untuk menghitunf biaya pemin
             - Dendda keterlambatan jika buku terlambat dikembalikan beberapa hari
 
 
-> [IMPORTANT]
+> [!IMPORTANT]
 > ```
 > Judul Buku: Pemrograman Java
 > Biaya Pinjam: 5000.0
