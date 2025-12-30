@@ -1,5 +1,6 @@
 Quiz pratikum yang diadakan sebelum UAS Pemrograman Beriorientasi Objek Sistem Informasi FKI UMS Semester 3
 ##
+> [!NOTE]
 > **nb: Quiz ini dibuat berdasarkan aslab dan dosen pengampu masing-masing**
 ##
 Studi Kasus: Perpustakaan Sederhana
