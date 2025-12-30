@@ -16,3 +16,23 @@ Sebuah perpustakaan ingin membuat program sederhana untuk menghitunf biaya pemin
      - Memilikii atribut pricePerDay sebagai biaya pinjam perhari
   
 2. **Nested Class**
+   Buaty class utama bernama LibrarySystem ssebegai pengelola sistem.
+   Di dalam class tersebut, buat **nested class** BookData yang berfungsi untuk:
+      - Menyimpan data buku
+      - Menampilkan judul buku dan biaya peminjaman
+  
+3. Method Main
+   Pada method main, lakukan langka berikut:
+      a. Buat satu objek Book
+      b. Gunakan nested class untuk menampilkan data buku
+      c. Tampilkan:
+            - Biaya peminjaman buku
+            - Dendda keterlambatan jika buku terlambat dikembalikan beberapa hari
+
+
+> [IMPORTANT]
+> ```
+> Judul Buku: Pemrograman Java
+> Biaya Pinjam: 5000.0
+> Denda Keterlambatan: 3000.0
+> ```
