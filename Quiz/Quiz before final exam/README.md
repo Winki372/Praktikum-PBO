@@ -8,7 +8,7 @@ Sebuah perpustakaan ingin membuat program sederhana untuk menghitunf biaya pemin
 
 1. **Class**
    a. buat sebuah **interface Penalty** yang digunakan untuk menghitung denda keterlambatan peminjaman buku, yang memiliki satu method: double calculatePenalty(int lateDays);\
-   b. buat **abstract class** bernama **LibraryItem** yang mewakili item di perpustakaan, memiliki:\
+   b. buat **abstract class** bernama **LibraryItem** yang mewakili item di perpustakaan, memiliki:
      - Atribut title untuk menyimpan judul item,
      - Method abstrak getBorrowCost() untuk menghitung biaya peminjaman
    c. Buat **class Book** yang merepresentasikan buku
@@ -25,7 +25,7 @@ Sebuah perpustakaan ingin membuat program sederhana untuk menghitunf biaya pemin
    Pada method main, lakukan langka berikut:
       a. Buat satu objek Book
       b. Gunakan nested class untuk menampilkan data buku
-      c. Tampilkan:
+      c. Tampilkan:\
          - Biaya peminjaman buku\
          - Denda keterlambatan jika buku terlambat dikembalikan beberapa hari\
 
