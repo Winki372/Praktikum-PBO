@@ -20,7 +20,7 @@ Sebuah perpustakaan ingin membuat program sederhana untuk menghitunf biaya pemin
    Di dalam class tersebut, buat **nested class** BookData yang berfungsi untuk:
       - Menyimpan data buku
       - Menampilkan judul buku dan biaya peminjaman
-  
+
 3. Method Main
    Pada method main, lakukan langka berikut:
       a. Buat satu objek Book
